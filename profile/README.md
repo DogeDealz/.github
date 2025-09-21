@@ -1,5 +1,11 @@
 ## 🐕‍🦺 this is a community forked from other communities that builds stuff to add value to the Dogecoin Ecosystem
 
+## DogeDealz Projects
+1. Random/ranDOGE - a very random, quantum resilient "L2" subset of Dogecoin that isn't a joke
+2. Foundation Wallet - a better gigawallet forked from the Dogecoin Foundation
+3. BigCommerce - an e-commerce marketplace integration proof of concept for future e-commerce marketplace integrations
+4. Dogecoin Core / DIPS - improvement proposals and contributions to Dogecoin Core
+
 ## DogeDealz Community Code of Conduct
 The DogeDealz community consists of people from around the world with diverse talents and experiences. 
 When working with people within the DogeDealz community, this code will help guide your relationships 
