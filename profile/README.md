@@ -9,7 +9,7 @@
 ## DogeDealz Community Code of Conduct
 The DogeDealz community consists of people from around the world with diverse talents and experiences. 
 When working with people within the DogeDealz community, this code will help guide your relationships 
-to ensure that the community remains aligned to with Dogecoin. 
+to ensure that the community remains aligned with Dogecoin. 
 
 The three pillars of this code are: **Be:** **Personable**, **Useful,** & **Reliable**
 
